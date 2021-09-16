@@ -11,4 +11,6 @@ In this project we are designing a car seat heater using a microcontroller.<br/>
 # Code Inspector 
 
 ![Code quality score](https://www.code-inspector.com/project/28824/score/svg)<br/>
-![Code Grade](https://www.code-inspector.com/project/28824/status/svg)
+![Code Grade](https://www.code-inspector.com/project/28824/status/svg)<br/>
+# Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f51c1ae09a7e411cacf624bc379483e8)](https://www.codacy.com/gh/Katiyar20/Stepin_Heat-monitoring-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Katiyar20/Stepin_Heat-monitoring-system&amp;utm_campaign=Badge_Grade)
