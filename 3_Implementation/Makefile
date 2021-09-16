@@ -1,4 +1,4 @@
-PROJ_NAME = Heat Monitoring system
+PROJ_NAME = SeatHeater
 
 BUILD_DIR = Build
 
